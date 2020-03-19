@@ -1,0 +1,13 @@
+
+/stanford-algs-master/
+stanford-algs-master.zip
+**/*.xcbkptlist
+**/*.xcexplist
+**/*.xcscheme
+**/*.xcsettings
+**/*.rtf
+**/*.pbxproj
+**/*.txt
+**/*.plist
+**/*.xcworkspacedata
+**/*.xcuserstate
